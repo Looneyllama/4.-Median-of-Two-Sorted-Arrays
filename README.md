@@ -3,7 +3,9 @@
 Thought this leet code problem was interesting and wanted to try it out. Still just trying to help better my knowledge with python.
 
 This is one of the hardest problems I have ever done and it took me forever to conceptually grasp even with the editorial guide on leet code. 
-My first go-through did not satisfy the big O notation, and it took me forever to figure out how to satisfy it.
+My first go-through did not satisfy the big O notation, and it took me forever to figure out how to satisfy it. 
+
+Overall I think I jumped into this level of coding while trying to learn python way too fast, but I did learn a lot from it.
 
 LeetCode problem :
 
